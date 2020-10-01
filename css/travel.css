@@ -1,0 +1,10 @@
+.travel__locations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-flow: row;
+}
+.location {
+    text-align: center;
+    padding: 10px;
+}

@@ -1,0 +1,36 @@
+@import url("fishList.css");
+@import url(travel.css);
+@import url(quotes.css);
+
+body {
+    margin: 0;
+    background-image: url("https://singularityhub.com/wp-content/uploads/2019/08/clear-concept-underwater-ocean-floor-perspectives-shutterstock-1422884786.jpg");
+    opacity: .9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+    margin: auto;
+    padding: 100px;
+}
+header {
+    border: 10px solid #FF6F59;
+    background-color: azure;
+}
+.contentContainer {
+    display: flex;
+}
+.contentContainer__right{
+    border: 10px solid #FED766;
+    background-color: azure;
+}
+.contentContainer__left{
+    border: 10px solid #2A324B;
+    background-color: aquamarine;
+    width: 80%;
+}
+h1, h3 {
+    text-align: center;
+}
+li {
+    margin-top: 10%;
+}

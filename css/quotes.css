@@ -1,0 +1,11 @@
+.travel__quotesSection {
+    background-color: azure;
+    margin: 50px;
+    padding: 1em
+}
+.travel__quotes {
+    text-align: center;
+}
+.author {
+    margin-bottom: 40px;
+}
